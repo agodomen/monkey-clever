@@ -1,3 +1,58 @@
+**/target
+**/.settings
+**/*.pyc
+**/.project
+**/.classpath
+/.idea
+*.impl
+**/**/*.impl
+dependency-reduced-pom.xml
+**/dependency-reduced-pom.xml
+**/*.impl
+**/.idea
+*.impl
+**/*.iml
+# pyenv config file
+.python-version
+# Compiled class file
+logs/
+*.class
+.idea/*.*
+# Log file
+*.log
+**/workspace.xml
+# BlueJ files
+*.ctxt
+# Mobile Tools for Java (J2ME)
+.mtj.tmp/
+junit-report
+# Package Files #
+#　*.jar
+*.war
+*.nar
+*.ear
+*.xlsx
+*.zip
+*.tar.gz
+*.rar
+out/*
+.gradle/*
+.idea/*
+.gradle/**/**
+.gradle
+**/**/.DS_Store
+*.DS_Store
+.DS_Store
+spark-warehouse/
+checkpoint/
+.metals/
+.vscode/
+# auto create files
+.hbase
+**/__pycache__/
+*.jpg
+**/*.jpg
+build
 
 arithemtic4c/log/
 
